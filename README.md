@@ -14,5 +14,6 @@ You have set your monthly household energy consumption at beginning of month to 
                         d. Oil 4.2 Litres
                     projected expense : 1740 bucks )
                     
+ Refer https://codereview.stackexchange.com/q/217849/198097
  
  Design the app.
