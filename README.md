@@ -17,7 +17,7 @@ You have set your monthly household energy consumption at beginning of month to 
  Refer https://codereview.stackexchange.com/q/217849/198097
  
 
-## Problem Statement : Design a sustainable home tracker and calibrater for power, water, gas to minimize the expense
+## Designing a sustainable home tracker and calibrater for power, water, gas to minimize the expense
 
     Following are the various scenarios to be considered
 
